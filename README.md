@@ -1,6 +1,6 @@
-# module-1-challenge
+# Plan
 
- ## Plan
+ ## Git
  * Create a new repository.
  * Clone it to your computer.
  * Coppy your assets files.
