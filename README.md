@@ -5,11 +5,11 @@
  Clone it to your computer
  Coppy your assets files
  
- ##Code
+ ## Code
  Reorganize HTML 
  Use Flexbox
 
- ##Design
+ ## Design
  Reorganize CSS properly
  
  
